@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ## SPOTIFY PLAYING
 
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="NavisCode Spotify Playing" width="350" >]
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
