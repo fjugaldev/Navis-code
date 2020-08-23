@@ -1,27 +1,19 @@
-### Hi there 👋
-
-##h2
-###h3
-
-###
+### Hi [Navis Code][website] here 👋
 
 <img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">
-<!-- <img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif"> -->
 
-**Navis-code/Navis-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer 🌱Father and Vegan
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a [Courses or YT][website]
+- 🌱 I’m currently learning more about web dev
+- 👯 I’m looking to collaborate webinar,meetup...
+- 💬 Ask me about to be a web dev
+- 😄 Pronouns: 'he/him'
+- ⚡ Fun fact: I love videogames but no time to play (thats fun)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-### Empieza blogpost
+### 📘 Last posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -29,7 +21,11 @@ Here are some ideas to get you started:
 - [Bienvenida al blog, aprende desarrollo web](https://blog.naviscode.com/bienvenida-al-blog-aprende-desarrollo-web/)
 <!-- BLOG-POST-LIST:END -->
 
-### Empieza YT
+➡️ [More posts...][blog]
+
+---
+
+### 🎥 Last YT videos
 
 <!-- YT:START -->
 
@@ -40,10 +36,16 @@ Here are some ideas to get you started:
 - [programar php interesa aprender php en 2020 (El porvenir de PHP7)](https://www.youtube.com/watch?v=_RQWCnt4M7s)
 <!-- YT:END -->
 
-### IMAGEN
+➡️ [More videos...][yt]
 
-<img src="https://github.com/Navis-code/Navis-code/blob/master/tweet.png" width="600">
+---
 
-## SPOTIFY PLAYING
+### 🎧 Spotify Playing
 
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+
+<!-- LINKS -->
+
+[website]: https://naviscode.com/
+[yt]: https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw?sub_confirmation=1
+[blog]: https://blog.naviscode.com/
