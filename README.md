@@ -5,7 +5,8 @@
 
 ###
 
-<img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif">
+<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.md.gif">
+<!-- <img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif"> -->
 
 **Navis-code/Navis-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
