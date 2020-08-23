@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 ### IMAGEN
 
 <img src="https://github.com/Navis-code/Navis-code/blob/master/tweet.png" width="600">
+
+## SPOTIFY PLAYING
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="Spotify now Playing" width="350"/>]
