@@ -15,7 +15,7 @@
 
 ---
 
-#### 🚀 Coding
+### 🚀 Coding
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
 
@@ -48,6 +48,7 @@
 ### 📘 Last posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [5 pasos para convertirme en desarrollador web profesional desde cero](https://blog.naviscode.com/5-pasos-para-convertirme-en-desarrollador-web-profesional-desde-cero/)
 - [Bienvenida al blog, aprende desarrollo web](https://blog.naviscode.com/bienvenida-al-blog-aprende-desarrollo-web/)
 <!-- BLOG-POST-LIST:END -->
@@ -59,6 +60,7 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+
 - [Carrito de compras con javascript (descarga de proyecto gratis)](https://www.youtube.com/watch?v=dSbWJAXQ7cA)
 - [Git que es y para que sirve (descarga de diapositiva gratis)](https://www.youtube.com/watch?v=-q7221V6Elk)
 - [Como instalar bootstrap 4 desde cero | Setup del proyecto](https://www.youtube.com/watch?v=uwj1d8DNUJw)
