@@ -1,8 +1,7 @@
 ### Hi [Navis Code][website] here 👋
 
-[<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=%40NavisCode&logo=Twitter&style=for-the-badge)](https://twitter.com/NavisCode)
+[<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
 
 ### 💻 Web Developer 🌱Father and Vegan
 
